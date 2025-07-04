@@ -125,7 +125,7 @@ To enable the MegaStore button inside Clover Register:
 
 **Taah Emmanuel**  
 Senior Android Developer  
-🔗 [www.iwomitechnologies.com](https://www.iwomitechnologies.com)
+🔗 
 
 ---
 
@@ -144,4 +144,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📬 Contact
 
 For issues, suggestions, or business inquiries:  
-📧 support@iwomitechnologies.com
+📧 ttemmanuel2020@gmail.com
