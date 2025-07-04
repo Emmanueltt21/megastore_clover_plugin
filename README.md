@@ -72,7 +72,7 @@ To enable the MegaStore button inside Clover Register:
     android:icon="@drawable/ic_mega_store"
     ```
 
-3. Deploy via USB or Play Store (for production, sign properly).
+3. Deploy via USB, adb terminal, Clover Store (for production, sign properly).
 
 ---
 
@@ -125,7 +125,6 @@ To enable the MegaStore button inside Clover Register:
 
 **Taah Emmanuel**  
 Senior Android Developer  
-🔗 
 
 ---
 
