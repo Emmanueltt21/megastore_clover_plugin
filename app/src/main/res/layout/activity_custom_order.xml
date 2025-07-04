@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dave's Custom Order"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <EditText
+        android:id="@+id/et_customer_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Customer Name"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/et_special_instructions"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:hint="Special Instructions"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/btn_create_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create Custom Order"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btn_view_orders"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Custom Orders" />
+
+    <Button
+        android:id="@+id/btn_pay_order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay Orders" />
+
+</LinearLayout>
