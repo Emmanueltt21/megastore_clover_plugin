@@ -9,7 +9,8 @@ android {
     defaultConfig {
         applicationId = "com.loyalty.api18" // Keep your existing app ID
         minSdk = 21 // Clover devices support API 24+
-        targetSdk = 25 // Use 33 for better Clover compatibility
+       // targetSdk = 25 // Use 33 for better Clover compatibility
+        targetSdk = 33 // Use 33 for better Clover compatibility
         versionCode = 10
         versionName = "10.0"
 

@@ -55,6 +55,7 @@
         <activity
             android:name=".RegisterIntegrationActivity"
             android:exported="true"
+            android:icon="@drawable/button_primary"
             android:label="MegaStore's Order">
             <intent-filter>
                 <action android:name="clover.intent.action.REGISTER_INTEGRATION" />
